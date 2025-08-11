@@ -1,6 +1,6 @@
 # Hi there, I'm Hector! 
 
-I'm an accomplished **Analytics Manager & Big Data, Machine Learning, and Data Science Enthusiast** with 7+ years of experience driving strategic initiatives in FinTech, e-commerce, banking, logistics, and more. I thrive on transforming data into actionable insights using big data, machine learning, and cutting-edge analytics techniques.
+I'm an accomplished **Data Science, Analytics, Machine Learning, and Data Engineering Professional** with 7+ years of experience driving strategic initiatives in FinTech, e-commerce, banking, logistics, and more. I thrive on transforming data into actionable insights using big data, machine learning, and cutting-edge analytics techniques.
 
 ---
 
